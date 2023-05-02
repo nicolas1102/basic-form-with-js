@@ -9,7 +9,7 @@ async function submitForm(event) {
     const password = formData.get('password');
 
     if (username === 'admin' && password === 'admin') {
-        window.location.replace('/basic-form-with-js/home.html');
+        window.location.replace('/home');
     } else {
         alert('This user is not authenticated. Try again.');
     }
