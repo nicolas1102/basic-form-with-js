@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://nicolas1102.github.io/basic-form-with-js/)
+- Live Site URL: [Live Site](https://basic-form-with-js.netlify.app/)
 
 ## My process
 
